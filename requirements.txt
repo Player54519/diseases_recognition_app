@@ -1,4 +1,6 @@
-streamlit
-transformers
-torch
-sentencepiece
+pip>=23.0
+streamlit==1.23.1
+torch==2.0.1
+transformers==4.31.0
+sentencepiece==0.1.99
+numpy==1.25.0
