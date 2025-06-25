@@ -1,4 +1,4 @@
-pip>=23.0
+pip==25.1.1
 streamlit==1.23.1
 torch --index-url https://download.pytorch.org/whl/cu117
 transformers==4.31.0
